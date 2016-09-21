@@ -22,7 +22,7 @@ We also thank "The Free and Unashamed" for asking us to write down our thoughts,
 and for supporting us in doing so. While you remain a mystery to us, you seem to
 be a good mystery.
 
-*About the authors:* 
+*About the authors:*
 
 This book was written by
 [Smuggler@staff.anarplex.net](mailto:Smuggler@staff.anarplex.net) and "XYZ". We
@@ -30,7 +30,7 @@ are the sole people responsible. These are our thoughts.
 
 **If you like this book:**
 
-If this booked helped you, gave you pleasure or just new things to think about, 
+If this booked helped you, gave you pleasure or just new things to think about,
 please say "Thank You" by sending us some Bitcoin to:
 
 **1DrjUiCT4Wzij8hLYBTYmfPubZMNf2PubU**
@@ -137,12 +137,12 @@ course, is held above all personal responsibility, recourse or personal risk.)
 A surprisingly large number of people in modern societies are in favor of the
 redistribution of property, sometimes knowingly and sometimes merely because
 they regard the rules of the game more than the morals of the game: they see
-redistribution as the way of the world and work to get "their share."  
+redistribution as the way of the world and work to get "their share."
 
 Parasitism, where enforced by a government, is easier than working. It provides
 a comparable level of consumption for less effort. In addition, it removes
 hundreds of daily decisions from an individual, along with the bad feelings of
-facing mistakes. 
+facing mistakes.
 
 It is sadly a truism that most people only want the freedom to be comfortable.
 
@@ -150,7 +150,7 @@ It is sadly a truism that most people only want the freedom to be comfortable.
 
 Libertarian class theory describes two classes of people in society: Those that
 pay more taxes than they consume of public services, and those that consume
-more public services than they pay taxes. That is: Tax-payers and Tax-feeders. 
+more public services than they pay taxes. That is: Tax-payers and Tax-feeders.
 
 What is under-appreciated is the size of the second group. In most developing
 countries, tax-feeders make up far more than a third of the employed, from
@@ -162,12 +162,12 @@ fight to keep it going till the last moment.
 
 If one combines only these two motives for intervening government,
 redistribution of property and shifting of decisions, an easy majority of
-people profit from the existence of such an institution. 
+people profit from the existence of such an institution.
 
 ---
 
 There are however additional motives for the existence of the state as a social
-organization. 
+organization.
 
 One is the identity creating feeling of "belonging" to something - a natural,
 and not always negative motivator of humans. This is regularly exploited by the
@@ -189,7 +189,7 @@ of "the market." However, this reply is not sufficient. The "market" does not
 take care of anything - it is merely a system of interaction and exchange.
 People find solutions to human problems; entrepreneurs spend time and effort to
 find solutions others will be willing to trade for, and, if they are correct,
-profit thereby. 
+profit thereby.
 
 Without new supplies of these services (which are generally forbidden by force
 under the current regimes) the perception of risk cannot be sufficiently
@@ -202,7 +202,7 @@ change itself. Aside from adapting to new ways of living, any change will find
 resistance and risk of failure, ranging from the loss of money or time, to
 loosing life or liberty itself. Very few people are willing to take these
 risks, and many would be needed to achieve any meaningful change in an entire
-society.  
+society.
 
 After all, liberty is costly.
 
@@ -219,9 +219,9 @@ permission.
 
 Fortunately, these methods allow us to model a voluntary society for those less
 willing to take risks, so that a formerly intellectual concept can be shown to
-them in real life - here and now, to see and feel with no waiting. 
+them in real life - here and now, to see and feel with no waiting.
 
-This does not require many like-minded people. 
+This does not require many like-minded people.
 
 The truth is that waiting for consent keeps us from acting. And acting allows
 us to test and modify our theories in the real world, which is the only way
@@ -250,7 +250,7 @@ of the individual member. He is either forced to be part of it, or at least he
 is forced to stay part of it after joining.
 
 Second, the identity aspects of a collective are irrelevant in almost all
-meaningful situations or simply superficial beyond meaning. 
+meaningful situations or simply superficial beyond meaning.
 
 We have all seen this in so many forms that it hardly needs a great deal of
 explanation. What is sometimes under-appreciated, however, is the possibility
@@ -281,7 +281,7 @@ more coherent relationships with people outside this society.
 
 It must be emphasized however, that these positive functions of society can
 only be achieved in groups of voluntary (individually consenting) associations
-with clear and easy exit-options. 
+with clear and easy exit-options.
 
 ---
 
@@ -304,7 +304,7 @@ A strategy for the implementation of liberty must be built on three ideas:
 personal, civil - with only a very small subset of the total population.
 Liberty should be assumed to be a minority position that is actively opposed by
 some and passively ignored by most. (If ever it becomes more, we'll have no
-trouble adapting.) 
+trouble adapting.)
 
 2. All notions of the homogeneity of society, change of mainstream opinion and
 universal integrity of a population must be abandoned.
@@ -313,42 +313,42 @@ universal integrity of a population must be abandoned.
 towards this goal and nourish attempts to accomplish a cultural secession from
 the mainstream society that allows us to form and protect institutions of
 social interaction and relationships.
- 
+
 # Introduction
 
 It is rather challenging to write a text about strategy that is both practical
 and refreshing. Our purpose is to inspire thought, not so much to create a
 final blueprint.  This little book has one purpose: to prepare you for
 reasonable and effective actions. If you read this but **do not act** (no
-matter how much you talk and write,) this book has utterly failed.  
+matter how much you talk and write,) this book has utterly failed.
 
 ---
 
 Many technologies and methods described in this text already exist and have
-been tested in real life; others await implementation. 
+been tested in real life; others await implementation.
 
 We have been heavily inspired by structures, methods and technologies found
 with other groups facing the same challenges. This includes organized crime
 groups like the Triads, Mafia and Yakuza. Our borrowing from them should
-(obviously) not be understood as an endorsement. 
+(obviously) not be understood as an endorsement.
 
 Also, we borrow from various ideas on freedom that came before us, most notably
 *Crypto-Anarchy* by T. C. May, *T.A.Z.* by Hakim Bey as well as
-*Counter-Economics* by S.E. Konkin III. 
+*Counter-Economics* by S.E. Konkin III.
 
 ---
 
 This is a strategy for risk-takers, entrepreneurs and adventurers. Both the
-risks and the expected rewards are great. 
+risks and the expected rewards are great.
 
 In plain terms: This is not for boys; it is for men. Facing reality is
 required. Change is created by people with courage, not by the timid who
 usually follow behind and clamor for credit after all the battles have been
 fought.
 
-One more thing: 
+One more thing:
 
-The people of courage almost always have the most fun. Enjoy! 
+The people of courage almost always have the most fun. Enjoy!
 
 # First Steps To Strategy
 
@@ -364,7 +364,7 @@ individual and exclusive participation in a society where the only legitimate
 foundation for all interpersonal interaction is that of voluntary agreement.
 
 It is a *personal* participation because we as physical, mental and moral
-beings partake in it with all our aspects, not just in some abstract sense. 
+beings partake in it with all our aspects, not just in some abstract sense.
 
 It is an *individual* participation because every member of such a society must
 decide for himself whether to partake in it or not.
@@ -377,7 +377,7 @@ not as part of a coercive society.
 *Means of engagement* are the abstract rules that govern our actions in order
 to achieve our objectives.  What actions are permissible and which should be
 avoided? Since our struggle is an ethical one our means should be in unison
-with our objectives, namely to refrain from all non-voluntary interactions. 
+with our objectives, namely to refrain from all non-voluntary interactions.
 
 This means that the resources we employ must be only be those of our own
 property, that we abstain from fraud, limit the impact on uninvolved parties and
@@ -408,7 +408,7 @@ distribute them.  This frees us from complexity and allows for the rapid
 implementation of tactics.
 
 So, we can expect to be more adaptable than our opponents, so long as we do not
-introduce new distribution schemes for resources and actions. 
+introduce new distribution schemes for resources and actions.
 
 We can and should focus on forming an entrepreneurial environment for tactics,
 and let them refine each other in the marketplace.
@@ -432,7 +432,7 @@ disagreement. Let us explore this in some depth:
 ## Obstacles
 
 We have already concluded that our objectives are opposed by a majority of the
-population as well as the ruling class. 
+population as well as the ruling class.
 
 It is, however, necessary to analyze the specific methods by which our
 objectives are opposed and which means are employed to keep us from reaching
@@ -442,7 +442,7 @@ our goals.
 
 Humans are spatial, social and cooperative beings.  We occupy space that no
 other spatial thing can occupy at the same time. Our bodies need to be
-somewhere; they need to be sustained. 
+somewhere; they need to be sustained.
 
 We are also social because we require interaction with other humans. We want to
 communicate, we want to learn from each other, we want to procreate. While we
@@ -458,7 +458,7 @@ we also engage in cooperation, specialization and trade.
 ---
 
 These characteristics of human life constitute the frame for most things we do,
-but also provide the means for our opponents to keep us in chains. 
+but also provide the means for our opponents to keep us in chains.
 
 Throughout history, those that oppose liberty have developed and cultivated a
 complex and refined "science" on how to keep populations under control. We are
@@ -467,7 +467,7 @@ that are shared not only by the rulers but by those parts of a society that
 profit from coercion and the comfort it brings.
 
 To understand this science it is beneficial to look at how our various aspects
-- spatial, social and cooperative - are exploited. 
+- spatial, social and cooperative - are exploited.
 
 ---
 
@@ -479,7 +479,7 @@ through its agents and proponents, as well as anyone conditioned to represent
 or call for it.
 
 It is individual humans that must intrude into another individual's space to
-deliver any kind of force, whether it be direct or indirect. 
+deliver any kind of force, whether it be direct or indirect.
 
 When not applying force, the only other option for the state to act within
 space is through its agents, to observe or surveil the space of others.
@@ -524,7 +524,7 @@ highly interconnected and form an integrated body of culture which makes it
 very hard to successfully break out of this scheme. If we change only parts of
 it, it is easy to be dragged back into "the old ways" by many parts that are
 still tied to the larger culture. (Ideally this need not be so, but as a
-practical matter, it usually is.) 
+practical matter, it usually is.)
 
 However, breaking away from mainstream culture and its various subcultures
 leaves the dissenter as a tolerated eccentric at best, or an unwanted
@@ -537,7 +537,7 @@ mental survival.
 But worse than this, is being removed from cooperative functions of society.
 Many institutions of our society were originally created to streamline
 cooperation between individuals. Since then, however, they have been taken-over
-and remodeled to support state dominion. 
+and remodeled to support state dominion.
 
 These institutions are numerous and we will only list the most important ones
 here:
@@ -554,7 +554,7 @@ here:
 
 Each of these institutions and services are tightly controlled by the state.
 Access and provision are limited to those that are not perceived as enemies of
-the system and those that follow cultural norms. 
+the system and those that follow cultural norms.
 
 These systems are necessary for successful cooperation between individuals; to
 satisfy the needs they cannot satisfy alone.
@@ -576,7 +576,7 @@ Cultural codes, values, symbols and systems and institutions of cooperation
 enable the state to become a spatial entity, through its agents, proponents and
 dependents. Culture forms the base for active consent while access control of
 institutions creates a soft force to keep the subjects in line. (The benefits
-of compliance outweigh the risks of dissent.) 
+of compliance outweigh the risks of dissent.)
 
 This supplies the state with the **individual people** that project its force
 into the spatial realm through their actions. This starts with simple social
@@ -595,7 +595,7 @@ We call the totality of this system: **The First Realm.**
 ---
 
 Please keep in mind that we are here talking about the system of domination,
-not the specific implementation or parties running it. 
+not the specific implementation or parties running it.
 
 Thus far, attempts to change this system have (at most) changed the faces
 running the show, but have never fundamentally changed the game.
@@ -604,14 +604,14 @@ running the show, but have never fundamentally changed the game.
 
 Although we may call the population's support for this system unethical,
 misguided, stupid or even evil, it is nevertheless a reality that must be
-faced clearly. 
+faced clearly.
 
 Our challenge is of an enormous magnitude. This is why previous strategies have
 failed to achieve much lasting change.
 
 ## Conclusions
 
-We can thus draw the following conclusions: 
+We can thus draw the following conclusions:
 
 1. **Spatial:** We have to find or **create** territory (space) in which no
 agent, proponent, or dependent of the state is present or can deliver force in
@@ -622,7 +622,7 @@ territory.
 
 2. **Spatial:** We have to protect and **defend** the territory of liberty
 against state surveillance. Surveillance is the precursor to force, whether
-direct or indirect. (Otherwise, what purpose does it have?) 
+direct or indirect. (Otherwise, what purpose does it have?)
 
 3. **Spatial:** We must minimize the need of free men to enter territory that
 is occupied by agents of the state or surveilled by them.
@@ -651,7 +651,7 @@ to optimize communication and social ordering, as well as to support separation
 from the culture of our opponents.
 
 10. **Cultural:** The cultural **codes** and norms of liberty must support both
-the integration and nurturing of free men and the exclusion of state agents. 
+the integration and nurturing of free men and the exclusion of state agents.
 
 ---
 
@@ -667,10 +667,10 @@ objectives in the past and were often able to sustain their systems for
 centuries. The only major difference between those successful cultural
 entrepreneurs and free men is that we are more restrained in our rules of
 engagement. Nonetheless, even this can be used as a lasting advantage.
- 
-> **Anarchy is the free grouping of men 
+
+> **Anarchy is the free grouping of men
 > into societies of their preference.**
- 
+
 # The Second Realm
 
 After having defined the boundaries and the objectives of a necessary strategy
@@ -679,9 +679,9 @@ After having defined the boundaries and the objectives of a necessary strategy
 Several past and existing groups serve as inspiration to us in imagining of a
 future for free men. However, they should not serve as blueprints; only as
 examples to learn from. We will have to do some things differently from things
-anyone has done before. 
+anyone has done before.
 
-As an inspirational excursion, let us look at several of these examples: 
+As an inspirational excursion, let us look at several of these examples:
 
 ---
 
@@ -703,7 +703,7 @@ Similarly the Triads are built on ethnicity (Han Chinese) and sharing a
 cultural narrative (resistance to the Manchu rule). They have been around for
 centuries, mostly by establishing an integrated society and trying to limit
 their activities to inter-triad conflict, exploiting street criminals and
-focusing on less-public crime. 
+focusing on less-public crime.
 
 A similar pattern of social narrative, ethnic focus and well controlled
 intervention into the public realm shows itself with the Yakuza. They even put
@@ -804,7 +804,7 @@ control of a generally recognized government.
 ---
 
 There are several examples of this which differ in their autonomy or duration,
-from wholly independent permanent zones to only short lived simulated autonomy. 
+from wholly independent permanent zones to only short lived simulated autonomy.
 
 The oldest of these examples can be found in middle-ages Europe in the form of
 Ghettos which not only served as a place to concentrate "unwanted" social
@@ -885,7 +885,7 @@ surveillance attacks.
 Second, one needs to **know** when a physical attack - a raid - against the
 place is in preparation or ongoing.  This requires ways to keep an eye on the
 surroundings and to have an alarm system that can warn everyone within the area
-that an attack is imminent. 
+that an attack is imminent.
 
 Third, **delaying** the attacker with passive means to prevent him from
 successfully executing a surprise attack. This usually involves multiple
@@ -962,7 +962,7 @@ live as if you are free - because you are, at least at that place and time.
 This advantage is not only true for physical places, but also for digital
 places. While the term "digital place" is misleading because the physicality of
 the digital realm is negligible, it can nevertheless serve some of the same
-purposes that a physical TAZ can fulfill. 
+purposes that a physical TAZ can fulfill.
 
 ---
 
@@ -975,7 +975,7 @@ Here people can talk to each other as if the state did not exist, they can
 prepare or even conduct trades without having to spend a single thought on the
 legal realm their physical body resides in. A large portion of our life that is
 not tolerated by the surrounding society can be conducted in the safety of
-cypherspace.^[The digital realm which is heavily protected by cryptography and 
+cypherspace.^[The digital realm which is heavily protected by cryptography and
 uses cryptography to model and enforce certain rules.]
 
 Since anonymizing technology and cryptography can separate our coercible body
@@ -1015,7 +1015,7 @@ Realm.
 ---
 
 There are several technologies and economic trends that should be kept on the
-radar of any anarcho-capitalist. 
+radar of any anarcho-capitalist.
 
 Two of these technologies are the advent of various kinds of urban farming,
 especially industrial vertical urban farming (which promises to make
@@ -1105,7 +1105,7 @@ Anonymity. Contrary to modern propaganda, there is nothing wrong with anonymity
 per se. Many of our actions and trades do not need to be revocable nor do they
 have the ability to cause any significant harm to others. In these cases it is
 perfectly fine to not have any name or identity at all. Given the right
-structure of interaction, there is no need for attribution at all. 
+structure of interaction, there is no need for attribution at all.
 
 The most prominent example for an area where anonymity is practical and useful
 is in digital communication. While we might chose to be pseudonymous for the
@@ -1131,7 +1131,7 @@ Thus opaqueness of action in relation to non-affected parties can protect us
 from third-party intervention and punishment without inviting additional
 dangers. There is no justification for anyone but buyer and seller to know who
 is selling what to whom. No one needs to know what person A tells person B if
-no other person's justified interest is at peril. 
+no other person's justified interest is at peril.
 
 Since we have used the word "justified" or "justification" repeatedly above,
 let us be clear what it means: Our knowledge of actions - or our involvement in
@@ -1197,18 +1197,18 @@ commonly known as **tradecraft.**
 
 ---
 
-Using the strategy of minimized information comes with some risks of its own. 
+Using the strategy of minimized information comes with some risks of its own.
 
 First, it can be counterproductive for social cohesion within our subculture
 and social groups. This requires us to not have paranoia rule us and security
 to become a religion. One countermeasure against this risk is specialization
-described in the next section. 
+described in the next section.
 
 The second risk is that we overlook that sometimes evidence is required for the
 feasibility of our internal justice system. There are two remedies against
 this. One is that we must design methods of interaction that drastically limit
 the potential for criminal or otherwise harmful behavior. Some of these methods
-are mentioned further below. 
+are mentioned further below.
 
 Another way is to recall that evidence does not have to be publicly available
 without a party announcing that wrongdoing took place. We can design our
@@ -1247,7 +1247,7 @@ integration comes with great risk.
 
 These facts call for a special career that is especially interesting to people
 that have not yet found their vocation (or who have left their previous
-vocation) and are looking for low capital opportunities: The Proxy-Merchant. 
+vocation) and are looking for low capital opportunities: The Proxy-Merchant.
 
 A proxy-merchant is a bridge connecting the Second Realm to the First Realm
 while keeping risks at bay.  Many ways of bridge-building are conceivable, from
@@ -1262,7 +1262,7 @@ nothing can go wrong and only peaceful and well-meaning people roam.
 
 While most people most of the time are not violent and do not personally
 partake in robbery (most simply outsource it to the tax-man), there are some
-that resort to force to achieve their goals. 
+that resort to force to achieve their goals.
 
 ---
 
@@ -1330,7 +1330,7 @@ club's business hours and equipped with a CCTV system controlled from within
 the club's perimeter. The only way to enter the rooms for a regular visitor is
 to call the club while waiting at the elevator on ground floor, and if access
 is granted, the elevator is sent down with a lift-boy that has to unlock the
-top-floor with a key. 
+top-floor with a key.
 
 The floor below is an office with different business hours that is integrated
 into the club's alarm system.
@@ -1377,7 +1377,7 @@ prepared or willing to do. However, thinking deeply about the issue at hand can
 serve as preparation for this. Effective defense is based on mobility and
 flexibility, the dynamic grouping, regrouping, dispersing of actors as well as
 the on-demand centralization and decentralization of command at the required
-level of hierarchy. 
+level of hierarchy.
 
 It is necessary to develop strategies in this area that are known to those that
 commit to partake in these actions - should they be required - so that the
@@ -1471,12 +1471,12 @@ Two areas in which technology can help us shall be explored in the following.
 ---
 
 The oppression by the First Realm forces us to employ methods to conceal our
-actions and to leave no evidence behind. 
+actions and to leave no evidence behind.
 
 **Anonymous communication** technologies - many of which are available right
 now - allow us to send and receive messages, surf the web and offer digital
 services in a way that neither sender nor recipient can be identified by third
-parties. 
+parties.
 
 **Dark-net**  systems give us the leverage we need to operate our own access
 controlled and anonymous communication networks as an inconspicuous overlay of
@@ -1545,7 +1545,7 @@ own solutions in the tactical arena.
 In the First Realm the following is called "institutional services" and only
 provided "officially" and with licenses to legitimize the control exercised.
 Institutions become social organisms on their own, insulating themselves
-against competition and abolishment. 
+against competition and abolishment.
 
 In the Second Realm, competition, diversity and choice are the norm, which is
 why we call these "Shared Services."
@@ -1591,7 +1591,7 @@ them by the Second Realm society.
 Internal justice systems are another example of shared services. We are not
 going to progress into a utopian future where fraud, theft and aggression
 disappear. Instead we have to find ways to provide conflict resolution,
-enforcement and restitution systems. 
+enforcement and restitution systems.
 
 This requires ways to securely register contracts and retain evidence in case
 of future disagreements without risking that uninvited third parties gain any
@@ -1609,7 +1609,7 @@ questionable actors and serve as a social restraint against repeat violations.
 
 Trading posts that provide anonymous deposit boxes that are accessible through
 tradable digital warehouse bonds are one solution to protect both buyers and
-sellers by reducing the need to conduct trades in person. 
+sellers by reducing the need to conduct trades in person.
 
 Another idea is the use of "trading tables" that can be reached from both sides
 only by hard to observe corridors and that feature a barrier between the
@@ -1618,7 +1618,7 @@ both parties. Buyer and seller hold each other with one hand during the trade,
 preventing one side from running away with only one half of the transaction
 having taken place, and use the other hand to move goods between them.
 Essentially these trading tables resemble a bank counter except in protecting
-both sides equally. 
+both sides equally.
 
 Both these services could be provided by competing business clubs or trading
 halls that differ not only in price, but also by the methods they provide for
@@ -1694,7 +1694,7 @@ refers to the ability, right or wish of something to be governed by its own
 law. Anarchism is therefore not what the media tells us - the presence of chaos
 or lawlessness - but instead the presence of law chosen by those that are
 covered by the law, contrary to a law given by rulers to handle subjects
-(Anarchy: No Ruler). We will be referring to Autonomy in that sense. 
+(Anarchy: No Ruler). We will be referring to Autonomy in that sense.
 
 ---
 
@@ -1737,7 +1737,7 @@ This sphere of autonomy is known as "property". It is the physical boundaries
 in which a person is the sole source of law. It is physical because only
 physical interaction can limit the autonomy of another physical being. And it
 is necessary so that individuals have room to decide for themselves and know if
-their decisions are justified. 
+their decisions are justified.
 
 Any attempt to deny the concept of physical, individual property is an attack
 on the concept of individual autonomy. Both are interlinked inseparably in the
@@ -1780,7 +1780,7 @@ the victim whole, and secondly by applying the same harm to the culprit. This
 constitutes the basic maxim of justice under individual autonomy and the
 highest justified punishment in any case. However, it leaves room for the
 victim to pardon the offender whenever the victim chooses, or to voluntarily
-agree with him on a different form of restitution. 
+agree with him on a different form of restitution.
 
 Second, the only party entitled to restitution is the victim, the only party
 liable to restitution is the offender - an action that has no victim cannot
@@ -1895,7 +1895,7 @@ reflecting their individual decisions and mentalities.
 ---
 
 Nevertheless there are several things that contribute to the formation of
-culture. 
+culture.
 
 One of the most exciting is the influence of art, music and literature that
 springs from a cultural context and feeds back into it. The imagination of
@@ -1906,7 +1906,7 @@ Another influence is that of necessity. Culture encodes and optimizes social
 interactions which are shaped by the reality that society finds itself in.
 Specific challenges and threats, but also abundances and blessings of
 environment flow into and through culture. Compare the longing songs of the
-desert people with the joyful dances of jungle tribes. 
+desert people with the joyful dances of jungle tribes.
 
 Ethical, moral and religious values are another point to mention. While they
 are often only reflections of the culture already in place, they also appear in
@@ -1941,7 +1941,7 @@ colorful but also serious and realistic outlaws.
 Our society is not homogenous, hierarchies are close to non-existent. Where
 hierarchies exist they are through authority of knowledge, action, character
 and exist only so long as they are actively supported by those affected, which
-is usually not very long. 
+is usually not very long.
 
 Instead, voluntary associations that differ in style and behavior are
 affiliated in a network of mutual bonds, vouches and personal reputations. No
@@ -1962,7 +1962,7 @@ Neither reputation nor respect are empty words for us. They are also ways of
 binding and help to mutually develop. We communicate them tangibly, by vouching
 for others, underwriting and extending bonds to protect our business-partners
 and peers. In this web of tangible relations people draw each other up the
-ladder of affluence, but also quickly sort out evil-doers and scam artists. 
+ladder of affluence, but also quickly sort out evil-doers and scam artists.
 
 ---
 
@@ -2063,11 +2063,11 @@ pain for everybody" meme that drives so many who are hurt and abused.
 ---
 
 While these might be big words, they are nevertheless true: If we do not act
-and implement more liberty, the days of humanity might well be numbered. 
+and implement more liberty, the days of humanity might well be numbered.
 
-We live in interesting times that will shape the future, 
-and it is up to us to shape it in a human, a free, and an 
-ethical way. No one else will, and it is time to stop asking 
+We live in interesting times that will shape the future,
+and it is up to us to shape it in a human, a free, and an
+ethical way. No one else will, and it is time to stop asking
 for permission or looking for excuses.
 
 If you ever wanted to save the world - this is your chance. And if you just
@@ -2114,7 +2114,7 @@ currencies so you can partake in covert commerce.
 11. Live a culture of Liberty. Support the autonomy of others visibly: Respect!
 
 12. Insert kindness and strength into the world. Charity and justice are for
-YOU to do. 
+YOU to do.
 
 13. Encourage others that work for liberty, who invest and produce.
 
@@ -2128,7 +2128,7 @@ liberty and deny autonomy to others.
 
 **If you liked this book:**
 
-If this booked helped you, gave you pleasure or just new things to think about, 
+If this booked helped you, gave you pleasure or just new things to think about,
 please say "Thank You" by sending us some Bitcoin to:
 
 **1DrjUiCT4Wzij8hLYBTYmfPubZMNf2PubU**
